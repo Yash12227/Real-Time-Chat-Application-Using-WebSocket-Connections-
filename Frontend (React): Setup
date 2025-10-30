@@ -1,0 +1,6 @@
+cd ..
+npm create vite@latest client --template react
+cd client
+npm install socket.io-client
+npm install
+npm run dev
